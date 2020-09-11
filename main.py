@@ -3,4 +3,7 @@ num2=5
 answer=num1+num2
 print(answer)
 print(answer)
-print(zoe)
+name=("zoe")
+print(name)
+age=("19")
+print(age)
